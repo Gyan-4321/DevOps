@@ -5,3 +5,4 @@
 3. git init
 4. git add .  ( . means all current file in folder)
 5. git commit -m ( -m means some msg)
+6. git push -u origin main
